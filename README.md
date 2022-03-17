@@ -1,2 +1,2 @@
-# cc_coding
+# Test
 This is cc's repository
